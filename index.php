@@ -1,23 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <!-- Required meta tags -->
     <meta charset="utf-8" />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <title>Pipeline Penanganan Kredit</title>
-    <!-- plugins:css -->
+    <title>SIAP | BPR Sukabumi</title>
     <link rel="stylesheet" href="vendors/feather/feather.css" />
     <link rel="stylesheet" href="vendors/ti-icons/css/themify-icons.css" />
     <link rel="stylesheet" href="vendors/css/vendor.bundle.base.css" />
-    <!-- endinject -->
-    <!-- Plugin css for this page -->
-    <!-- End plugin css for this page -->
-    <!-- inject:css -->
     <link rel="stylesheet" href="css/vertical-layout-light/style.css" />
-    <!-- endinject -->
     <link rel="shortcut icon" href="images/favicon.png" />
   </head>
 
@@ -70,7 +63,6 @@
     </div>
   </div>
 
-  <!-- Password -->
   <div class="form-group">
     <div class="input-group input-group-alternative">
       <div class="input-group-prepend">
@@ -80,7 +72,6 @@
     </div>
   </div>
 
-  <!-- Jabatan -->
   <div class="form-group">
     <div class="input-group input-group-alternative">
       <div class="input-group-prepend">
@@ -97,14 +88,12 @@
     </div>
   </div>
 
-  <!-- Submit Button -->
   <div class="mt-3">
     <button type="submit" class="btn btn-block btn-primary btn-lg font-weight-medium auth-form-btn" id="login" name="Login">
       Sign In
     </button>
   </div>
 
-  <!-- Footer Link -->
   <div class="text-center mt-4 font-weight-light">
     Don't have an account? <a href="#" class="text-primary">Contact Your Admin</a>
   </div>
