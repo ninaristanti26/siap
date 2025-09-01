@@ -24,7 +24,7 @@
                 <div class="brand-logo">
                   <img src="images/Logo BPR 1.png" alt="logo" />
                 </div>
-                <h4>Sistem Integrasi Analisis Penanganan (SI A P)</h4>
+                <h4>Sistem Integrasi Analisis Penanganan (S I A P)</h4>
                 <h6 class="font-weight-light">Sign in to continue.</h6>
   <?php
   include("koneksi.php");
